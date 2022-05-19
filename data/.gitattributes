@@ -1,0 +1,4 @@
+*.sql filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
+movie_scripts_movie_script.csv filter=lfs diff=lfs merge=lfs -text
+movie_scripts_raw.sql filter=lfs diff=lfs merge=lfs -text
